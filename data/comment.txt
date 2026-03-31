@@ -1,0 +1,6 @@
+commentID, registeredClassID, comment
+C0001, RC00001, The teacher helped me in every steps! Thank you.
+C0002, RC00002, Teacher used AI-gen images…
+C0003, RC00003, Online class is too chaotic
+C0004, RC00004, The lab is boring
+C0005, RC00005, The concept is so hard to understand, but the slide made is very helpful!

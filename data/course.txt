@@ -1,0 +1,5 @@
+courseID, name, level, dateRegistered, yearDuration, facultyID
+CT1225DL, Computing, Diploma, 2025-12-01, 2, F01
+BS0126F, Business, Foundation, 2026-01-10, 1, F02
+CT0126F, Computing, Foundation, 2026-01-10, 1, F01
+AI0126DG, Computing - Artificial Intelligence, Degree, 2026-01-31, 3, F01

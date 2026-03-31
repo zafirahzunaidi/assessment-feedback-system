@@ -1,0 +1,5 @@
+facultyID, name
+F01, School of Computing
+F02, School of Business
+F03, School of Psychology
+F04, School of Engineering

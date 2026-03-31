@@ -1,0 +1,20 @@
+username,password,role
+kohanelon,taetae,Admin
+studentstu,123456,Student
+student222,123456,Student
+acadlead,123456,Academic Leader
+lecturer1,123456,Lecturer
+tynsdylan,123456,Academic Leader
+mutuparakumma,123456,Academic Leader
+upinpin,123456,Academic Leader
+22sobariah,123456,Lecturer
+sabrisaad,123456,Lecturer
+drwadryah,123456,Lecturer
+profmichaels,123456,Lecturer
+sabzuh,123456,Student
+leeoppa,123456,Student
+kbharimau,123456,Student
+dranna, 123456, Lecturer
+student006,123456,Student
+aisyah456, 123456, Student
+student008,123456,Student

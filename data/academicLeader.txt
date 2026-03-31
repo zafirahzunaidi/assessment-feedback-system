@@ -1,0 +1,5 @@
+acadLeadID,username, name, faculty, title, email, phone, academicQualification
+AL001, acadlead, Lim Kok Yew, F01, , , 
+AL002, tynsdylan, Dylan Sai Woo, F02, , , 
+AL003, mutuparakumma, Kumar Paranmutu A/L Pranjeet, F03, , , 
+AL004, upinpin, Rosalina Binti Saad, F04, , , 

@@ -1,0 +1,13 @@
+grade, type, lowestMark, highestMark, weightage
+A+, High Distinction, 85, 100, 4.00
+A, Distinction, 75, 84, 3.85
+A-, Distinction, 70, 74, 3.70
+B+, Credit, 65, 69, 3.30
+B, Credit, 60, 64, 3.15
+B-, Credit, 55, 59, 3.00
+C, Pass, 50, 54, 2.70
+C-, Pass, 45, 49, 2.30
+D, Pass, 40, 44, 2.00
+F+, Fail (Marginal), 30, 39, 1.50
+F, Fail, 0, 29, 1.00
+AS, Absent, NULL, NULL, 0.00

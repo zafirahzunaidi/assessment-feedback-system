@@ -1,0 +1,21 @@
+assessID, classID, assessType, fullMark, weightage
+A0001, LT-01-Maths, Assignment, 50, 1.0
+A0002, LB-01-Maths, Final Test, 100, 1.0
+A0003, LT-05-Ars, Class Test, 50, 0.3
+A0004, LT-05-Ars, Final Test, 100, 0.7
+A0005, TT-03-Ars, Assignment, 100, 1.0
+A0006, LB-10-Ioop, Lab Exercise, 50, 0.5
+A0007, LT-01-Ioop, Final Exam, 100, 1.0
+A0008, LB-10-Ioop, Class Test, 50, 0.5
+A0009, TT-07-Ars, Quiz 1, 100, 0.5
+A0010, TT-07-Ars, Quiz 2, 100, 0.5
+A0011, LT-04-Itb, Final Exam, 100, 1.0
+A0012, TT-05-Itb, Assignment, 100, 1.0
+A0013, LT-01-Iai, Final Exam, 100, 1.0
+A0017, LB-13-Ioop, Final Exam, 100.0, 0.5
+A0018, LB-13-Ioop, Assignment, 80.0, 0.5
+A0019, LT-03-Ioop, Final Exam, 50.0, 0.2
+A0020, LT-03-Ioop, Quiz, 20.0, 0.5
+A0021, LT-02-Ioop, Quiz, 50.0, 0.4
+A0022, LB-01-Iai, Final Exam, 100.0, 0.5
+A0023, LB-01-Iai, Class Test, 70.0, 0.5

@@ -1,0 +1,7 @@
+lecturerID, username, name, title, email, phoneNumber, academicQualification, acadLeadID
+L0001, lecturer1, Siti Nur Binti Mahmud, Ts., sitimahmud@gmail.com, 01032615578, PhD of Computer Science, AL001
+L0002, 22sobariah, Sobariah Binte Ahmad, Dr., sobariah12@gmail.com, 01032615579, PhD in Business Administration, AL002
+L0003, sabrisaad, Saad Sabri Bin Zamarul, NULL, saadsabri@gmail.com, 01032615580, Bachelor of Information Technology, AL001
+L0004, drwadryah, Dawariah Kamarul, NULL, dawariahkam@gmail.com, 01032615581, Master of Business Management, AL002
+L0005, profmichaels, Michael Singh Ong, Prof Dr., michael123@gmail.com, 01032615582, PhD in Economics, AL002
+L0006, dranna, Anna Yeoh, Ts. Dr., ms.annayeoh@gmail.com, 01128177288, PhD in Software Engineering, AL001

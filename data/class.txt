@@ -1,0 +1,14 @@
+classID, name, type, moduleLectID, classDay, startTime, durationHour, sizeLimit, venue
+LT-01-Maths, Lecture 01 Maths, Lecture, ML0001, Tuesday, 1045, 2.0, 105, Physical
+LB-01-Maths, Lab 01 Maths, Lab, ML0005, Friday, 0830, 1.5, 30, Physical
+LT-05-Ars, Lecture 05 Academic Research Study, Lecture, ML0004, Friday, 1600, 2.0, 350, Online
+TT-03-Ars, Tutorial 03 Academic Research Study, Tutorial, ML0004, Wednesday, 1115, 1.0, 38, Physical
+TT-07-Ars, Tutorial 07 Academic Research Study, Tutorial, ML0004, Tuesday, 1340, 1.0, 20, Physical
+LT-04-Itb, Lecture 04 Introduction To Business, Lecture, ML0003, Monday, 1400, 2.5, 230, Online
+LB-10-Ioop, Lab 10 Introduction To Object Oriented Programming, Lab, ML0006, Wednesday, 0915, 2.0, 45, Physical
+LT-01-Ioop, Lecture 01 Introduction To Object Oriented Programming, Lecture, ML0006, Wednesday, 1400, 1.0, 100, Physical
+LB-13-Ioop, Lab 13 Introduction To Object Oriented Programming, Lab, ML0007, Thursday, 0830, 2.0, 30, Physical
+LB-01-Iai, Lab 01 Introduction to Artificial Intelligence, Lab, ML0008, Friday, 1545, 2.0, 25, Physical
+LT-03-Ioop, Lecture 03 Introduction To Object Oriented Programming, Lecture, ML0007, Friday, 1430, 1.0, 65, Physical
+LT-01-Iai, Lecture 01 Introduction To Artificial Intelligence, Lecture, ML0008, Wednesday, 1400, 2.0, 350, Online
+TT-05-Itb, Tutorial 05 Introduction To Business, Tutorial, ML0003, Tuesday, 0830, 1.5, 30, Physical

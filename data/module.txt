@@ -1,0 +1,7 @@
+moduleID, name, creditHour
+ARS, Academic Research Study, 3.0
+ITB, Introduction To Business, 4.0
+MATHS, Mathematics, 3.0
+FMATHS, Further Mathematics, 4.0
+IOOP, Introduction To Object Oriented Programming, 3.0
+IAI, Introduction To Artificial Intelligence, 4.0

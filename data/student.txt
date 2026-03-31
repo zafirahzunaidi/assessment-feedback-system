@@ -1,0 +1,9 @@
+studentID, username, name, email, phoneNumber, currentCourse, CGPA
+TP000001, sabzuh, Sabrina Binti Zuhri, sabrinazuhri@gmail.com, 0103312069, CT1225DL, 3.85
+TP000002, leeoppa, Lee Jung Min, oppa99@gmail.com, 0103312070, BS0126F, 4.00
+TP000003, studentstu, Juliana Zack, julieyli@gmail.com, 0103312071, CT0126F, 3.95
+TP000004, student222, Peng Wu Xiao, xiaolament@yahoo.com, 0103312072, AI0126DG, 3.89
+TP000005, kbharimau, Kareem Bahreem, karibah00@gmail.com, 0103312073, BS0126F, 3.93
+TP000006, student006, Ahmad Firdaus Bin Rahman, firdaus06@gmail.com, 0103312074, AI0126DG, 3.15
+TP000007, aisyah456, Nur Aisyah Binti Hamzah, aisyah07@gmail.com, 0103312075, AI0126DG, 1.5
+TP000008, student008, Tan Wei Ming, weiming08@gmail.com, 0103312076, AI0126DG, 3.21
