@@ -217,7 +217,7 @@ Other modules (Admin, Academic Leader, Student) were developed collaboratively b
 #### Analytics System
 <img src="images/analytics.png" width="700">
 
-#### 📸 View full lecturer's system here: [System Screenshots](LECTURER_SCREENS.md)
+#### 📸 View full lecturer's system here: [Full Lecturer System](LECTURER_SCREENS.md)
 ---
 
 ## 🏆 Key Learning
