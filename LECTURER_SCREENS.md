@@ -83,6 +83,7 @@ Allows users to update personal information.
 - Username must be unique
 - Email must be a valid Gmail, Yahoo, or Outlook account
 - Phone number must follow Malaysian format (+60) with 10–11 digits
+- Users must enter their existing password to validate the changes
 
 ### Profile - Change Password page
 <img src="images/profile_changepassword.png" width="700">
